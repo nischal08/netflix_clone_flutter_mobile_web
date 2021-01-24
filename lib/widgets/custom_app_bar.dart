@@ -96,7 +96,8 @@ class _CustomAppBarDesktop extends StatelessWidget {
                 ),
               ],
             ),
-          ),Spacer(),
+          ),
+          Spacer(),
           Expanded(
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
